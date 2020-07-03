@@ -1,0 +1,31 @@
+{
+  "name": "xname",
+  "version": "1.0.200701",
+  "description": "Manipulate XML using namespace URIs and prefix mappings.",
+  "main": "js/xname.js",
+  "types": "js/xname.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubaszostak/xname.git"
+  },
+  "keywords": [
+    "xname",
+    "xnamespace",
+    "xml",
+    "dom",
+    "xmlns"
+  ],
+  "author": "Kuba Szostak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubaszostak/xname/issues"
+  },
+  "homepage": "https://github.com/kubaszostak/xname#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
